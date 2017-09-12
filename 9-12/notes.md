@@ -1,8 +1,8 @@
 # What Makes a Sociotechnical System
 
-..* Hardware
-..* Software
-..* Physical Surroundings
-..* People
-..* Data/Data Structures
-..* Procedures
+1. Hardware
+2. Software
+3. Physical Surroundings
+4. People
+5. Data/Data Structures
+6. Procedures
